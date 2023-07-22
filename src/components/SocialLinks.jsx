@@ -78,7 +78,7 @@ const SocialLinks = ({ clr }) => {
           </defs>
         </svg>
       </a>
-      <a rel="me" href="https://fosstodon.org/@TechXero" target="_blank">
+      <a rel="me" href="https://fosstodon.org/@XeroLinux" target="_blank">
         <FaMastodon />
       </a>
       <a href="https://odysee.com/@XeroLinuxOfficial:0" target="_blank" rel="noreferrer">
