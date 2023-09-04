@@ -9,6 +9,6 @@ export const CONTENT = [
   },
   {
     title: "Powerful",
-    text: "With built-in support for AUR and Flatpaks, as well as the topgrade T.U.I updater, XeroLinux gives you the power to shape your Linux system YOUR way, the easy way."
+    text: "With built-in support for AUR and Flatpaks, as well as the topgrade T.U.I updater, XeroLinux gives you the power to shape your Linux system YOUR way."
   }
 ]

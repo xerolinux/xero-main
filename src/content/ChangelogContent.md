@@ -8,16 +8,15 @@ Below is a list of changes. Fresh install is no longer needed if you are already
 #### - Important Changes :
 <br />
 
-- **KDFONT** Issue Resolved (Again..).
-- **Arch Kernel** updated to version **6.4.3**.
-- **Grub** issue addressed held back to r499/New Repo.
-- **New Look** Now system uses the **Catppuccin** theme & style for everything.
-- **Memtest86** Will be removed during install due to an ongoing issue with **Grub**
+- **Arch Kernel** updated to version **6.4.12** (Latest as of release).
+- **XeroTool** Updated removing **WayLand** button (Not yet Stable).
+- **Pamac** Removed, install GUI Package manager of choice via XeroTool.
 
 #### - KDE Plasma updates :
 <br />
 
 - **QT** updated to **5.15.10** (Latest as of release).
-- **KDE Plasma** updated to **5.27.6** (Latest as of release).
-- **KDE Frameworks** updated to **5.108** including all packages.
-- **Major** under-the-hood performance optimizations made to **Plasma**.
+- **KDE Plasma** updated to **5.27.7** (Latest as of release).
+- **KDE Frameworks** updated to **5.109** including all packages.
+- **KDE Config** Optimizations for better experience out the box.
+- **KDE Gear** apps updated to lates (v23.08) (Latest as of release).

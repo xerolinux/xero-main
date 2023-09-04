@@ -21,7 +21,7 @@ const AgreedOptions = ({ agreed }) => {
             </P>
             <Buttons mb="1rem">
               <a
-                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.07-x86_64.iso&selected=nav"
+                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.09-x86_64.iso&selected=nav"
                 target="_blank"
                 rel="noreferrer"
               >

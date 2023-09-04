@@ -11,6 +11,40 @@ const DonateButtons = () => (
         themed
         fz="var(--fz-6)"
         icon={
+          <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+                width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+                preserveAspectRatio="xMidYMid meet">
+            <g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+                fill="#000000" stroke="none">
+            <path d="M130 280 c0 -11 5 -20 10 -20 6 0 10 9 10 20 0 11 -4 20 -10 20 -5 0
+                    -10 -9 -10 -20z"/>
+            <path d="M90 271 c0 -12 5 -21 10 -21 6 0 10 6 10 14 0 8 -4 18 -10 21 -5 3
+                    -10 -3 -10 -14z"/>
+            <path d="M170 270 c0 -11 5 -20 10 -20 6 0 10 9 10 20 0 11 -4 20 -10 20 -5 0
+                    -10 -9 -10 -20z"/>
+            <path d="M2 185 c7 -55 28 -89 70 -111 44 -23 99 -21 141 5 19 11 44 21 55 21
+                     28 0 52 26 52 56 0 17 -5 24 -20 24 -15 0 -20 7 -20 25 l0 25 -141 0 -142 0 5
+                     -45z m254 -7 c-9 -49 -38 -81 -83 -96 -35 -11 -46 -11 -77 2 -38 16 -76 67
+                     -76 104 0 22 2 22 121 22 l122 0 -7 -32z m44 -33 c0 -15 -26 -32 -36 -23 -2 3
+                     -2 13 2 22 8 20 34 21 34 1z"/>
+            <path d="M97 183 c-16 -15 -6 -53 17 -68 21 -14 28 -14 46 -3 22 14 36 50 25
+                     67 -7 12 -78 15 -88 4z m73 -28 c0 -21 -34 -37 -48 -23 -21 21 -13 35 18 36
+                     19 0 30 -4 30 -13z"/>
+            <path d="M70 30 c0 -6 30 -10 70 -10 40 0 70 4 70 10 0 6 -30 10 -70 10 -40 0
+                     -70 -4 -70 -10z"/>
+            </g>
+         </svg>
+        }
+      />
+    </a>
+    <a href="https://fundrazr.com/xerolinux" target="_blank" rel="noreferrer noopener">
+      <Button
+        padding=".5rem 2rem"
+        text="FundRazr"
+        primary
+        themed
+        fz="var(--fz-6)"
+        icon={
           <svg
             strokeWidth="0"
             viewBox="0 0 24 24"

@@ -43,7 +43,7 @@ const ReleaseCountdown = ({ countdown }) => {
             seconds
           </p>
         </Wrapper>
-        <P>According to Lebanon timezone (GMT+3)</P>
+        <P>According to Lebanon timezone (GMT+2)</P>
       </div>
     </Div>
   );

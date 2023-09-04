@@ -1,9 +1,9 @@
 export const CONTENT = {
   heading: "XeroLinux",
   text: `A community maintained Arch-Based Distro,
-              that is meant to provide you with a stable base,
-               and a well optimized & beautifully Customized Plasma Desktop, that you can shape YOUR way, the easy way !
+              that provides you with an easy way to install Arch and a well optimized, beautifully Customized Plasma Desktop, that you can later shape to suite your needs !
               <br />
-              <br />I hope you enjoy using it ;)
+              <br />
+              This Distro is not for "Everyone".<br />Basic Linux Knowledge is a Must-Have.
   `,
 }
