@@ -1,6 +1,6 @@
 export const CONTENT = {
   heading: "XeroLinux",
-  text: `A community maintained Arch-Based Distro,
+  text: `An Arch-Based Distro,
               that provides you with an easy way to install Arch and a well optimized, beautifully Customized Plasma Desktop, that you can later shape to suite your needs !
               <br />
               <br />

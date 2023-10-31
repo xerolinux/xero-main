@@ -12,7 +12,7 @@ const AgreedOptions = ({ agreed }) => {
         <Wrapper>
           <Center>
             <P>
-              Download From{" "}
+              Download From{" "}<br />
               <a href="http://sf.net/projects/xerolinux/" target="_blank" rel="noreferrer">
                 SourceForge
                 <br />
@@ -21,7 +21,7 @@ const AgreedOptions = ({ agreed }) => {
             </P>
             <Buttons mb="1rem">
               <a
-                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.09-x86_64.iso&selected=nav"
+                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.10-x86_64.iso&selected=nav"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -39,7 +39,7 @@ const AgreedOptions = ({ agreed }) => {
           </Center>
           <Center>
             <P>
-              Build ISO From{" "}
+              Build From{" "}<br />
               <a href="https://github.com/xerolinux/" target="_blank" rel="noreferrer">
                 Xero Github
                 <br />
@@ -66,7 +66,7 @@ const AgreedOptions = ({ agreed }) => {
           </Center>
           <Center>
             <P>
-              Download From{" "}
+              Download From{" "}<br />
               <a href="https://fosstorrents.com/distributions/xerolinux" target="_blank" rel="noreferrer">
                 FossTorrents <br />
               </a>
