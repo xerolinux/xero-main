@@ -8,6 +8,6 @@
 ##### <center><a href="https://forum.xerolinux.xyz/thread-4.html" target="_blank">Detailed Release Notes.</a></center>
 <br />
 
-**XeroLinux** is targeted towards more *Technical* users. With **Arch** being a Rolling distribution, basic Linux fundamentals should be known, so when issues *do* happen you will have the tools needed to figure things out on your own. Limited support owill be provided. By offering this philosophy it allows for you, the user not to feel too overwhelmed.<br />
+**XeroLinux** was buit and tested for my hardware, I cannot help you with yours. However, I have included some scripts that can hopefully be useful for most cases via the **XeroTool**. Also, with **Arch** being a Rolling distribution, basic Linux fundamentals should be known, so if you decide to use it and encounter any issues you will have the tools needed to figure things out on your own. Limited support owill be provided. By offering this philosophy it allows for you, the user not to feel too overwhelmed.<br />
 
 <center> <img src="https://img.shields.io/sourceforge/dw/xerolinux.svg?style=for-the-badge&color=FD729A&labelColor=3A4986"> </center>
