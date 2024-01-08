@@ -2,7 +2,6 @@ import UserAgreementContent from "../content/UserAgreementContent.md";
 import styled from "styled-components";
 import { useState, useEffect } from "react";
 import { marked } from "marked";
-import laptop from "../assets/images/laptop.avif";
 
 const Disclaimer = () => {
   const [content, setContent] = useState("");
@@ -24,18 +23,6 @@ const Disclaimer = () => {
       </>
   );
 };
-
-const Svg = styled.svg`
-  position: absolute;
-  inset: auto auto 0 -3rem;
-  width: 100%;
-  transform: translateY(25%);
-
-  & > path {
-    fill: rgb(var(--fg));
-    font-size: var(--fz-10);
-  }
-`;
 
 const ImgContainer = styled.div`
   width: 65%;

@@ -1,18 +1,10 @@
 import Button from "./Button";
 import Buttons from "./Buttons";
-import { PopUpContext } from "../contexts/PopUpContext";
-import { useContext } from "react";
 import Title from "./Title";
 import Box from "./Box";
 import styled, { keyframes, css } from "styled-components";
 
 const XeroGOptions = ({ helping }) => {
-
-    const { setPopUp } = useContext(PopUpContext);
-
-    const openDonate = () => {
-        setPopUp("Donate");
-    };
 
     return (
         <Div helping={helping}>

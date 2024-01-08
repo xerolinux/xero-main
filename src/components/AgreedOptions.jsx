@@ -21,7 +21,7 @@ const AgreedOptions = ({ agreed }) => {
             </P>
             <Buttons mb="1rem">
               <a
-                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.11-x86_64.iso&selected=nav"
+                href="https://sourceforge.net/settings/mirror_choices?projectname=xerolinux&filename=Releases/xerolinux-2023.12-x86_64.iso&selected=nav"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -67,19 +67,19 @@ const AgreedOptions = ({ agreed }) => {
           <Center>
             <P>
               Download From{" "}<br />
-              <a href="#" target="_blank" rel="noreferrer">
+              <a href="https://fosstorrents.com/distributions/xerolinux/" target="_blank" rel="noreferrer">
                 FossTorrents <br />
               </a>
               <sub>(Multi-Location)</sub>
             </P>
             <Buttons mb="1rem">
               <a
-                href="#"
+                href="https://fosstorrents.com/thankyou/?name=xerolinux&cat=Current%20Edition&id=0&hybrid=0"
                 target="_blank"
                 rel="noreferrer"
               >
                 <Button
-                  text="Ubploading..."
+                  text="Download"
                   padding=".75em 2em"
                   fz="var(--fz-5)"
                   primary
